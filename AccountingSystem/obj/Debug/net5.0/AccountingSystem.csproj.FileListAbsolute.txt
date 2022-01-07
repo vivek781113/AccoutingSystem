@@ -1,0 +1,16 @@
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.csproj.AssemblyReference.cache
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.AssemblyInfoInputs.cache
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.AssemblyInfo.cs
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\AccountingSystem.exe
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\AccountingSystem.deps.json
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\AccountingSystem.runtimeconfig.json
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\AccountingSystem.runtimeconfig.dev.json
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\AccountingSystem.dll
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\ref\AccountingSystem.dll
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\bin\Debug\net5.0\AccountingSystem.pdb
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.dll
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\ref\AccountingSystem.dll
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.pdb
+C:\Users\H438580\source\repos\AccountingSystem\AccountingSystem\obj\Debug\net5.0\AccountingSystem.genruntimeconfig.cache

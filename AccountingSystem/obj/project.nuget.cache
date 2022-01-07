@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCbff7RQZHeRJe7idabLqcqc9kTksuDZVlxbRpv+eSFdZDGb4/Ctgj3ou4vgXehpAQbOi6VhrBPxcEx/fEgb/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\H438580\\source\\repos\\AccountingSystem\\AccountingSystem\\AccountingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H438580\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
